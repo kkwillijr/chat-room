@@ -1,1 +1,1 @@
-# chat-room
+# Intro to Computer Networks Chat Application Project
